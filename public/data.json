@@ -1,0 +1,218 @@
+[
+    {
+        "college_name": "Example University",
+        "college_image": "https://i.ibb.co/d6Xwhbn/istockphoto-1433624442-170667a.webp",
+        "admission_date": "2023-08-15",
+        "events": [
+            {
+                "event_name": "Freshers' Orientation",
+                "event_date": "2023-09-01",
+                "event_description": "An event to welcome new students to the college."
+            },
+            {
+                "event_name": "Annual Sports Meet",
+                "event_date": "2024-02-15",
+                "event_description": "An exciting sports competition held every year."
+            }
+        ],
+        "research_history": {
+            "total_publications": 2000,
+            "average_citations": 45,
+            "famous_researchers": [
+                "Dr. John Smith",
+                "Dr. Emily Johnson"
+            ]
+        },
+        "admission_process": {
+            "eligibility_criteria": "Minimum 60% in qualifying exams.",
+            "admission_form_link": "https://example.com/admission-form",
+            "application_deadline": "2023-07-31"
+        },
+        "sports_categories": [
+            "Football",
+            "Basketball",
+            "Swimming",
+            "Tennis"
+        ]
+    },
+    {
+        "college_name": "XYZ College of Engineering",
+        "college_image": "https://i.ibb.co/KDkS9rQ/istockphoto-1323420737-170667a-1.webp",
+        "admission_date": "2023-09-01",
+        "events": [
+            {
+                "event_name": "Tech Fest",
+                "event_date": "2024-01-10",
+                "event_description": "A technical festival showcasing innovation and technology."
+            },
+            {
+                "event_name": "Cultural Night",
+                "event_date": "2024-03-05",
+                "event_description": "A night of music, dance, and cultural performances."
+            }
+        ],
+        "research_history": {
+            "total_publications": 500,
+            "average_citations": 25,
+            "famous_researchers": [
+                "Prof. Michael Brown",
+                "Prof. Sarah Green"
+            ]
+        },
+        "admission_process": {
+            "eligibility_criteria": "Qualified in engineering entrance exam.",
+            "admission_form_link": "https://example.com/engineering-admission",
+            "application_deadline": "2023-08-15"
+        },
+        "sports_categories": [
+            "Cricket",
+            "Badminton",
+            "Volleyball",
+            "Athletics"
+        ]
+    },
+    {
+        "college_name": "ABC Medical College",
+        "college_image": "https://i.ibb.co/Mhh4D28/istockphoto-1353372838-170667a.webp",
+        "admission_date": "2023-07-01",
+        "events": [
+            {
+                "event_name": "White Coat Ceremony",
+                "event_date": "2023-08-20",
+                "event_description": "A ceremony to mark the beginning of medical studies."
+            },
+            {
+                "event_name": "Health Awareness Camp",
+                "event_date": "2024-04-15",
+                "event_description": "A camp to promote health awareness in the community."
+            }
+        ],
+        "research_history": {
+            "total_publications": 800,
+            "average_citations": 35,
+            "famous_researchers": [
+                "Dr. Lisa Miller",
+                "Dr. Robert Wilson"
+            ]
+        },
+        "admission_process": {
+            "eligibility_criteria": "Qualified in medical entrance exam.",
+            "admission_form_link": "https://example.com/medical-admission",
+            "application_deadline": "2023-05-15"
+        },
+        "sports_categories": [
+            "Cricket",
+            "Football",
+            "Chess",
+            "Swimming"
+        ]
+    },
+    {
+        "college_name": "Arts and Humanities Institute",
+        "college_image": "https://i.ibb.co/vLKFtq8/istockphoto-1414256132-170667a.webp",
+        "admission_date": "2023-09-15",
+        "events": [
+            {
+                "event_name": "Art Exhibition",
+                "event_date": "2024-03-20",
+                "event_description": "An exhibition showcasing artworks from students and faculty."
+            },
+            {
+                "event_name": "Literary Fest",
+                "event_date": "2024-05-10",
+                "event_description": "A festival celebrating literature and writing."
+            }
+        ],
+        "research_history": {
+            "total_publications": 300,
+            "average_citations": 20,
+            "famous_researchers": [
+                "Prof. Emma Turner",
+                "Prof. Daniel Brown"
+            ]
+        },
+        "admission_process": {
+            "eligibility_criteria": "Minimum 50% in qualifying exams.",
+            "admission_form_link": "https://example.com/arts-admission",
+            "application_deadline": "2023-08-31"
+        },
+        "sports_categories": [
+            "Table Tennis",
+            "Basketball",
+            "Volleyball",
+            "Yoga"
+        ]
+    },
+    {
+        "college_name": "Science and Technology University",
+        "college_image": "https://i.ibb.co/Tb4SFdb/istockphoto-1456729829-170667a.webp",
+        "admission_date": "2023-08-01",
+        "events": [
+            {
+                "event_name": "Science Expo",
+                "event_date": "2024-02-10",
+                "event_description": "An exhibition of scientific projects and innovations."
+            },
+            {
+                "event_name": "Hackathon",
+                "event_date": "2024-04-20",
+                "event_description": "A coding competition to develop innovative solutions."
+            }
+        ],
+        "research_history": {
+            "total_publications": 1200,
+            "average_citations": 40,
+            "famous_researchers": [
+                "Dr. Mark Roberts",
+                "Dr. Laura Johnson"
+            ]
+        },
+        "admission_process": {
+            "eligibility_criteria": "Qualified in science entrance exam.",
+            "admission_form_link": "https://example.com/science-admission",
+            "application_deadline": "2023-07-15"
+        },
+        "sports_categories": [
+            "Football",
+            "Cricket",
+            "Athletics",
+            "Basketball"
+        ]
+    },
+    {
+        "college_name": "Business School of Management",
+        "college_image": "https://i.ibb.co/cywFwtQ/istockphoto-1456749194-170667a.webp",
+        "admission_date": "2023-09-01",
+        "events": [
+            {
+                "event_name": "Leadership Summit",
+                "event_date": "2024-01-25",
+                "event_description": "A summit focusing on leadership and management skills."
+            },
+            {
+                "event_name": "Entrepreneurship Workshop",
+                "event_date": "2024-03-15",
+                "event_description": "A workshop for aspiring entrepreneurs."
+            }
+        ],
+        "research_history": {
+            "total_publications": 400,
+            "average_citations": 30,
+            "famous_researchers": [
+                "Prof. James Smith",
+                "Prof. Emma Davis"
+            ]
+        },
+        "admission_process": {
+            "eligibility_criteria": "Minimum 55% in qualifying exams and GD/PI.",
+            "admission_form_link": "https://example.com/bschool-admission",
+            "application_deadline": "2023-08-15"
+        },
+        "sports_categories": [
+            "Basketball",
+            "Volleyball",
+            "Badminton",
+            "Table Tennis"
+        ]
+    }
+]
